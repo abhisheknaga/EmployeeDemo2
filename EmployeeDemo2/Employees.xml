@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<employees>
+  <employee>
+    <id>101</id>
+    <name>E1</name>
+    <department>HR</department>
+    <location>Bangalore</location>
+  </employee>
+  <employee>
+    <id>102</id>
+    <name>E2</name>
+    <department>HR</department>
+    <location>Hyderabad</location>
+  </employee>
+  <employee>
+    <id>103</id>
+    <name>E3</name>
+    <department>FS</department>
+    <location>Bangalore</location>
+  </employee>
+  <employee>
+    <id>104</id>
+    <name>E4</name>
+    <department>FS</department>
+    <location>Hyderabad</location>
+  </employee>
+  <employee>
+    <id>105</id>
+    <name>E5</name>
+    <department>Retail</department>
+    <location>Bangalore</location>
+  </employee>
+  <employee>
+    <id>106</id>
+    <name>E6</name>
+    <department>Retail</department>
+    <location>Hyderabad</location>
+  </employee>
+</employees>
